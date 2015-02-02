@@ -1,2 +1,3 @@
-set number
-set ts=3
+:set tabstop=4 softtabstop=4 shiftwidth=4 noexpandtab 
+:set number
+:set showmatch
