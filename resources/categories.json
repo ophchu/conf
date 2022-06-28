@@ -1,0 +1,16 @@
+{
+  "children": [
+    "ofek",
+    "hobbies",
+    "other"
+  ],
+  "bank": [
+    "loans",
+    "commissions"
+  ],
+  "bills": [
+    "rent",
+    "watter",
+    "electricity"
+  ]
+}
